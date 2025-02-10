@@ -1,0 +1,57 @@
+remote: true
+
+experienceLevel:
+  internship: false
+  entry: false
+  associate: false
+  mid-senior level: true
+  director: true
+  executive: true
+
+jobTypes:
+  full-time: true
+  contract: true
+  part-time: false
+  temporary: true
+  internship: false
+  other: true
+  volunteer: false
+
+date:
+  all time: false
+  month: true
+  week: false
+  24 hours: false
+
+positions:
+  - Head of Sales
+
+locations:
+  - United States
+
+apply_once_at_company: false
+
+distance: 100
+
+company_blacklist:
+  - wayfair
+  - Crossover
+
+title_blacklist:
+  - word1
+  - word2
+
+location_blacklist:
+  - India
+
+job_applicants_threshold:
+  min_applicants: 0
+  max_applicants: 100
+
+llm_model_type: gemini
+llm_model: "gemini-pro"
+llm_api_url: "https://api.mi-gemini-llm.com/v1/endpoint"
+
+# Ejemplo de URL (si tu API de LLM requiere endpoint específico):
+# llm_api_url: "https://api.tu-llm-provider.com/"
+

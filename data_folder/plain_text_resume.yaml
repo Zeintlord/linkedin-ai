@@ -1,0 +1,112 @@
+personal_information:
+  name: "Manuel"
+  surname: "Saint Amant"
+  date_of_birth: "1994-03-17"
+  country: "Argentina"
+  city: "Buenos Aires"
+  address: "Vicente López"
+  phone_prefix: "+54"
+  phone: "1135567903"
+  email: "msaintamant@gmail.com"
+  linkedin: "https://www.linkedin.com/in/manuel-saint-amant-562036137/"
+  github: "https://github.com/Zeintlord"
+
+education_details:
+  - degree: "Master's Degree"
+    university: "Universidad de San Andrés"
+    field_of_study: "Digital Business"
+    graduation_year: "2022"
+    gpa: "N/A"
+    exam: {}
+
+
+  - degree: "Bachelor's Degree"
+    university: "Universidad de Buenos Aires"
+    field_of_study: "Business Administration"
+    graduation_year: "2020"
+    gpa: "N/A"
+    exam: {}
+
+
+experience_details:
+  - position: "Head of Sales and Business Development"
+    company: "Biobarica"
+    employment_period: "July 2024 - Present"
+    location: "Argentina"
+    industry: "Medical Technology"
+    key_responsibilities:
+      - responsibility: "Managed and led sales team to exceed targets and drive revenue growth."
+      - responsibility: "Developed business strategies to expand sales channels."
+      - responsibility: "Established distributor networks and managed key partnerships."
+    skills_acquired:
+      - "Sales Leadership"
+      - "Business Development"
+      - "Strategic Planning"
+
+  - position: "Head of Sales"
+    company: "Volt Solar Energy"
+    employment_period: "October 2022 - January 2024"
+    location: "Miami, FL, USA"
+    industry: "Renewable Energy"
+    key_responsibilities:
+      - responsibility: "Implemented a reseller program, increasing sales 10x in one year."
+      - responsibility: "Led expansion into new markets and secured strategic partnerships."
+      - responsibility: "Negotiated high-value contracts."
+    skills_acquired:
+      - "Channel Sales"
+      - "Negotiation"
+      - "Market Expansion"
+
+projects:
+  - name: "AI-Powered Job Application Bot"
+    description: "Automated the job application process using AI."
+    link: null
+
+achievements:
+  - name: "Implemented a Reseller Program"
+    description: "Achieved 10x sales growth in one year."
+
+certifications:
+  - "First Certificate Exam (FCE)"
+  - "Google AI Essentials"
+
+languages:
+  - language: "Spanish"
+    proficiency: "Native"
+  - language: "English"
+    proficiency: "Fluent"
+
+interests:
+  - "AI in Sales & Business"
+  - "Cybersecurity"
+
+availability:
+  notice_period: "Immediate"
+
+salary_expectations:
+  salary_range_usd: "2000 - 4000"
+
+self_identification:
+  gender: "Male"
+  pronouns: "He/Him"
+  veteran: "No"
+  disability: "No"
+  ethnicity: "European"
+
+legal_authorization:
+  eu_work_authorization: "Yes"
+  us_work_authorization: "Yes"
+  requires_us_visa: "No"
+  requires_us_sponsorship: "Yes"
+  requires_eu_visa: "No"
+  legally_allowed_to_work_in_eu: "Yes"
+  legally_allowed_to_work_in_us: "Yes"
+  requires_eu_sponsorship: "No"
+
+work_preferences:
+  remote_work: "Yes"
+  in_person_work: "Yes"
+  open_to_relocation: "No"
+  willing_to_complete_assessments: "Yes"
+  willing_to_undergo_drug_tests: "Yes"
+  willing_to_undergo_background_checks: "Yes"
